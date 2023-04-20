@@ -13,4 +13,10 @@
 <br></br>
 
 ![propaganda_online](https://user-images.githubusercontent.com/129814574/233272400-3e90478e-1658-4bd5-9a50-5ba45753be0d.png)
-<br>
+<br></br>
+<h2> Results list of countries having the parents of users over 30 years old.
+<br></br>
+
+![paises_usuarios](https://user-images.githubusercontent.com/129814574/233273362-4b142f28-ba17-4163-b2ff-ccc2ec3e0e8e.png)
+
+
