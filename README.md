@@ -18,5 +18,10 @@
 <br></br>
 
 ![paises_usuarios](https://user-images.githubusercontent.com/129814574/233273362-4b142f28-ba17-4163-b2ff-ccc2ec3e0e8e.png)
+<br></br>
+<h2> Result with the total income of users who clicked on the ad.
+<br></br>
+
+![renda_usuarios](https://user-images.githubusercontent.com/129814574/233274289-f902175e-b0b3-4136-a24d-538a74815fc9.png)
 
 
