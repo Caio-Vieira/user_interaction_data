@@ -23,5 +23,11 @@
 <br></br>
 
 ![renda_usuarios](https://user-images.githubusercontent.com/129814574/233274289-f902175e-b0b3-4136-a24d-538a74815fc9.png)
+<br></br>
+<h2> Results with the city of users who spent more than 70 seconds on the site.
+<br></br>
+
+![cidades_usuarios](https://user-images.githubusercontent.com/129814574/233275669-87a9fcd6-d562-4336-af09-a469ecb1bdb7.png)
+
 
 
