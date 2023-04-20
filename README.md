@@ -9,3 +9,8 @@
 <h2> 2- conditional structure try / catch / finally.
 <h2> 3- for / in repetition structure.
 <h2> Used these topics data extraction, user interaction with online advertisements.
+<h2> Results list of customer data from online advertising.
+<br></br>
+
+![propaganda_online](https://user-images.githubusercontent.com/129814574/233272400-3e90478e-1658-4bd5-9a50-5ba45753be0d.png)
+<br>
